@@ -1,4 +1,4 @@
-#deploying an RCP instance using terraform
+#deploying an instance using terraform
  
 terraform {
   required_providers {
